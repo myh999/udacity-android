@@ -1,17 +1,17 @@
 # Project Sunshine
-This repository contains exercises and solutions from Udacity's Online Android Development Course. This project is expected to be completed by the end of the Fall term.
+This repository contains exercises and solutions from Udacity's Online Android Development Course. This project is expected to be completed by the end of the Fall 2017 term.
 
 # Completed Topics
 Layout Development, 
 Networking, 
 RecyclerView, 
-Intents
-
-# In Progress
+Intents,
 Activity Lifecycle
 
+# In Progress
+User Preferences
+
 # To be Completed
-User Preferences, 
 Storing Data in SQLite, 
 Content Providers, 
 Background Tasks, 
